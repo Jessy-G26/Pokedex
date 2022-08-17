@@ -1,0 +1,9 @@
+.nav-link{
+    margin-left: 10px;
+    text-decoration: none;
+    color: white;
+}
+
+.nav-link:hover {
+color: burlywood;
+}
